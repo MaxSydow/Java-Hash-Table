@@ -28,5 +28,5 @@ variables and indeces are indicated in _italics_
 
 ### Main
 
-Calls **Insert()**, **Lookup()**, and **Delete()** methods from **Hashtable** class to add, find, and remove data with given parameters
+* Calls **Insert()**, **Lookup()**, and **Delete()** methods from **Hashtable** class to add, find, and remove data with given parameters
    
