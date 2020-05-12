@@ -9,11 +9,13 @@ classes and functions/methods are indicated in **bold**
 variables and indeces are indicated in _italics_
 
 
-### Node
+### Node 
+(Node.java)
 
  *  Creates a Node object consisting of _first name_, _last name_, _phone number_, and _email address_ using **get()** and **set()** methods
  
 ### Hashtable
+(Hashtable.java)
 
  *  Instantiates an array to store hashed values
 **Insert()** - This method creates a new node, using the variable _name_ to create an index called _hashPosition_ using the Java **hashCode()** function
@@ -27,6 +29,7 @@ variables and indeces are indicated in _italics_
 &nbsp; &nbsp; &nbsp; &nbsp; **displayTable()** - displays node name according to position in index
 
 ### Main
+(Main.java)
 
 * Calls **Insert()**, **Lookup()**, and **Delete()** methods from **Hashtable** class to add, find, and remove data with given parameters
    
