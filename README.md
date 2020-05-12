@@ -20,11 +20,11 @@ variables and indeces are indicated in _italics_
     
     Uses modulo 13, as the array is restricted to 13 values
     
-**Lookup()** - finds where an entry is indexed
+&nbsp; &nbsp; &nbsp; &nbsp; **Lookup()** - finds where an entry is indexed
 
-**Delete()** - deletes a node according to its position
+&nbsp; &nbsp; &nbsp; &nbsp; **Delete()** - deletes a node according to its position
 
-**displayTable()** - displays node name according to position in index
+&nbsp; &nbsp; &nbsp; &nbsp; **displayTable()** - displays node name according to position in index
 
 ### Main
 
