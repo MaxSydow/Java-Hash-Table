@@ -6,13 +6,13 @@ This is a hash table created using Java.  It is a data structure used to store k
 
 classes and functions/methods are indicated in **bold**
 
-variables and indeces are indicated in _italics_
+variables, objects, and indeces are indicated in _italics_
 
 
 ### Node 
 (Node.java)
 
- *  Creates a Node object consisting of _first name_, _last name_, _phone number_, and _email address_ using **get()** and **set()** methods
+ *  Creates a _Node_ object consisting of _first name_, _last name_, _phone number_, and _email address_ using **get()** and **set()** methods
  
 ### Hashtable
 (Hashtable.java)
